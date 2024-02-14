@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "html-validate:standard"
+  ],
+  "rules": {
+    "doctype-style": 2
+  },
+  "plugins": []
+}
